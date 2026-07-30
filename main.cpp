@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-#include "car.h"
+#include "car.hpp"
 
 int main() {
     Car car1("Toyota", "Camry", "2020");
